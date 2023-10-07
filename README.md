@@ -10,7 +10,9 @@
 
 [![Paul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=s1l0uk&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=s1l0uk&repo=s1l0uk)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=s1l0uk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+<!--
+For Popular Repos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=s1l0uk&repo=s1l0uk)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
