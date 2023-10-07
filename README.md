@@ -1,4 +1,6 @@
-### Hi there 👋
+### $ whoami
+
+## Well Hello There! 😹
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
