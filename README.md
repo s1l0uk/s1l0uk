@@ -27,4 +27,5 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=s1l0uk&repo=s1l0uk)](https://github.com/s1l0uk/s1l0uk)
 
-[![trophy](https://github-profile-trophy.vercel.app/?s1l0uk)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=s1l0uk&theme=onedark)](https://github.com/s1l0uk/YAFCT)
+
