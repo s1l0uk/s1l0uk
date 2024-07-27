@@ -1,6 +1,12 @@
 ### $ whoami
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=10F74F&width=435&lines=Systems+Administrator;DevOps+Engineer;Architect;DevSecOps+Engineer;Security+Researcher;Chocobo+Farmer)](https://git.io/typing-svg)
+
 ## Well Hello There! 😹
+
+## <span style="color: blue !important;">&gt;</span> Skillset
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,gmail,gitlab,jenkins,linux,ubuntu,golang,azure,c,ruby,python,terraform,arch,bash,git,kali&perline=12)](https://skillicons.dev)
+
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
